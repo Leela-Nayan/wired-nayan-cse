@@ -8,6 +8,6 @@
 
 4. After finding the port, I sent the current level's password, but instead of getting the next level's password, I got "KEYUPDATE" back. I remember seeing that word under the objective, and upon reading, the question asked me to see the connected commands in the man page. The solution was literally in the man page, I just had to include another -quiet argument in my command.
 
-5. Reran the command with -quiet arg and got the sshkey for the next level.
+5. Reran the command with -quiet arg and got an sshkey for the next level.
 
 Password for login into level 17: sshkey
