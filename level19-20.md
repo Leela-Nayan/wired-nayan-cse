@@ -7,3 +7,5 @@
 4. So next I ran ./bandit20-do cat /etc/bandit_pass/bandit20, and I got the password.
 
 Password to login into level 20: 0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO
+
+![alt text](Screenshots/level19.jpg)
