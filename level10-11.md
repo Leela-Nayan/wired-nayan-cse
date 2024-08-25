@@ -5,3 +5,5 @@ This level was also direct. I just had to look at the manpage of base64 and figu
 Commands used: base64 -d data.txt
 
 Password to login into 11: dtR173fZKb0RRsDFSGsg2RWnpNVj3qR
+
+![alt text](Screenshots/level10.png)
