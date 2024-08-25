@@ -11,3 +11,5 @@
 5. Reran the command with -quiet arg and got an sshkey for the next level.
 
 Password for login into level 17: sshkey
+
+![alt text](Screenshots/level16.png)
