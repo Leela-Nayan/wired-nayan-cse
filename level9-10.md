@@ -5,3 +5,5 @@ At first, I tried to use the nano editor and the "find" option in that, but that
 Commnands used: strings data.txt
 
 Password to login into level 10: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+
+![alt text](Screenshots/level9.png)
